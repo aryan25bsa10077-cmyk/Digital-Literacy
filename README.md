@@ -2,9 +2,9 @@
 
 **CSE0001 | VIT Bhopal University**
 
-**Name:** Prateek Bharadwaj
-**Registration Number:** 25BAI10532
-**Branch:** CSE (AI & ML)
+**Name:** Aryan Kapoor
+**Registration Number:** 25BSA10077
+**Branch:** CSE (Cloud Computing and Automation)
 **Year:** 1st Year
 
 ---
@@ -37,7 +37,7 @@ In this module, I learned how to establish a professional presence online. I cre
 
 This module focused on practical exposure to coding platforms and collaborative tools. I completed beginner-level Python challenges on HackerRank and gained hands-on experience. Additionally, I created a Digital Literacy Awareness Quiz using Google Forms to engage my peers.
 
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd_4xr0QlIHiOdKQaYMl-u0R-4gIXvCeaeUqMTlT0GsJIWnKA/viewform?usp=publish-editor
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdnqA_uQmSzKVnWsH8W2U1QxblLRrWpNPioXPsHw61K-msynw/viewform?usp=header
 📁 Folder: `task-3-platforms/`
 
 ---
@@ -77,7 +77,7 @@ Digital-Literacy/
 
 ## 🔗 Important Links
 
-* Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSd_4xr0QlIHiOdKQaYMl-u0R-4gIXvCeaeUqMTlT0GsJIWnKA/viewform?usp=publish-editor
+* Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSdnqA_uQmSzKVnWsH8W2U1QxblLRrWpNPioXPsHw61K-msynw/viewform?usp=header
 * Cyber Crime Portal: https://cybercrime.gov.in
 
 ---
